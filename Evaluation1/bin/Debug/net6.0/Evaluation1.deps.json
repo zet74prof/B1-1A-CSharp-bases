@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Evaluation1/1.0.0": {
+        "dependencies": {
+          "System.Speech": "7.0.0-rc.1.22426.10"
+        },
+        "runtime": {
+          "Evaluation1.dll": {}
+        }
+      },
+      "System.Speech/7.0.0-rc.1.22426.10": {
+        "runtime": {
+          "lib/net6.0/System.Speech.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "7.0.22.42610"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Speech.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "7.0.22.42610"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evaluation1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Speech/7.0.0-rc.1.22426.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dEQAtiBcJuWAtREFPzy/LcoHOzaTYa72c3fx/c7ci3ZlSAZ0dbDnH9dSY8qAhMtABtROVysYyoLwNt0RYBXbqQ==",
+      "path": "system.speech/7.0.0-rc.1.22426.10",
+      "hashPath": "system.speech.7.0.0-rc.1.22426.10.nupkg.sha512"
+    }
+  }
+}

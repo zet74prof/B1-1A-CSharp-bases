@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpeojE/dmhELuC0YaNloFBSlTBy2+z+fXANF5UWtk1Xh5Wq/uzDy2nRcL9b9KRLKUs4PZqo9t2HYypp9M+Az8w==",
+  "success": true,
+  "projectFilePath": "/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation1/Evaluation1.csproj",
+  "expectedPackageFiles": [
+    "/Users/Zet/.nuget/packages/system.speech/7.0.0-rc.1.22426.10/system.speech.7.0.0-rc.1.22426.10.nupkg.sha512"
+  ],
+  "logs": []
+}
