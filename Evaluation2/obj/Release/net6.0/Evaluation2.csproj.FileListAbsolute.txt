@@ -1,0 +1,15 @@
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/bin/Release/net6.0/Evaluation2
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/bin/Release/net6.0/Evaluation2.deps.json
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/bin/Release/net6.0/Evaluation2.runtimeconfig.json
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/bin/Release/net6.0/Evaluation2.dll
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/bin/Release/net6.0/Evaluation2.pdb
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.csproj.AssemblyReference.cache
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.AssemblyInfoInputs.cache
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.AssemblyInfo.cs
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.csproj.CoreCompileInputs.cache
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.dll
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/refint/Evaluation2.dll
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.pdb
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/Evaluation2.genruntimeconfig.cache
+/Users/Zet/RiderProjects/B1-1A-CSharp-bases/Evaluation2/obj/Release/net6.0/ref/Evaluation2.dll
